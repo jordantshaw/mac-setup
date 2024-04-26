@@ -1123,6 +1123,12 @@
         "options": {
           "full_name": "warp"
         }
+      },
+      "font-fira-code-nerd-font": {
+        "version": "3.2.1",
+        "options": {
+          "full_name": "font-fira-code-nerd-font"
+        }
       }
     },
     "mas": {
