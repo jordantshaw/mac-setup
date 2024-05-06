@@ -46,7 +46,7 @@ cask "pycharm"
 cask "spotify"
 cask "visual-studio-code"
 cask "warp"
-mas "1Password 7", id: 1333542190
+cask "1password"
 mas "Bitwarden", id: 1352778147
 mas "CleanMyMac X", id: 1339170533
 mas "CopyClip", id: 595191960
