@@ -4,6 +4,7 @@ tap "homebrew/cask-fonts"
 tap "microsoft/git"
 tap "microsoft/mssql-release"
 brew "awscli"
+brew "argo"
 brew "curl"
 brew "dagger"
 brew "gh"
@@ -41,7 +42,6 @@ cask "font-hack-nerd-font"
 cask "git-credential-manager"
 cask "google-chrome"
 cask "lunar"
-cask "orion"
 cask "pycharm"
 cask "spotify"
 cask "visual-studio-code"
@@ -50,13 +50,8 @@ mas "1Password 7", id: 1333542190
 mas "Bitwarden", id: 1352778147
 mas "CleanMyMac X", id: 1339170533
 mas "CopyClip", id: 595191960
-mas "GarageBand", id: 682658836
-mas "iMovie", id: 408981434
-mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
-mas "Numbers", id: 409203825
 mas "OneDrive", id: 823766827
-mas "Pages", id: 409201541
 mas "Slack", id: 803453959
 vscode "akamud.vscode-theme-onedark"
 vscode "davidanson.vscode-markdownlint"
